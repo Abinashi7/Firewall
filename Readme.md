@@ -7,7 +7,7 @@ Version: Java 8 and above is required
 Running instructions: 
 1. Create a directory and add the "src" folder.
 2. Add the .CSV in the directory
-2. Run the "Tests" class, which in turn will initialize the Firewall class and ask for the user input. 
+2. Run the "Tests" class that has all the test cases implemented utilizing JUnit framework, which in turn will initialize the Firewall class and ask for the user input. 
 3. Enter the valid path to your CSV file 
 
 
